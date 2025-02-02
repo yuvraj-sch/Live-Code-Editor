@@ -14,7 +14,6 @@ The **Live Code Editor** is a simple, interactive web application that allows us
 - **CSS**: For styling the editor and making the interface user-friendly.
 - **JavaScript**: For handling code execution, live updates, and editor interactions.
 
-## Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/live-code-editor.git
+## Link
+http://127.0.0.1:5500/Live%20Code%20Editor/index.html
+   
