@@ -15,5 +15,5 @@ The **Live Code Editor** is a simple, interactive web application that allows us
 - **JavaScript**: For handling code execution, live updates, and editor interactions.
 
 ## Link
-http://127.0.0.1:5500/Live%20Code%20Editor/index.html
+https://live-code-editor-murex.vercel.app/
    
